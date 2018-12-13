@@ -1,6 +1,7 @@
 {
   "name": "test-gh-fetch",
   "homepage": ".",
+  "license": "MIT",
   "devDependencies": {
     "react-scripts": "2.1.1"
   },
